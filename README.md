@@ -4,4 +4,4 @@ All projects that were created during my classes at Tech Talent
 
 These projects include:
 
-* Good Coffee Co. (Website created sing HTML, CSS, and Bootstrap franeworks)
+* Good Coffee Co. (Website created using HTML, CSS, and Bootstrap franeworks)
